@@ -1,0 +1,3 @@
+tutorial: https://www.youtube.com/watch?v=tHbCkikFfDE
+
+Place: ~7:15, just got server up and running
