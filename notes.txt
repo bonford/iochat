@@ -1,3 +1,7 @@
 tutorial: https://www.youtube.com/watch?v=tHbCkikFfDE
 
 Place: ~7:15, just got server up and running
+
+Place: ~14:40, adding script tags to index.html
+
+Place: ~20:00 emitting message from server.js
