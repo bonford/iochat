@@ -7,3 +7,7 @@ Place: ~14:40, adding script tags to index.html
 Place: ~20:00 emitting message from server.js
 
 Place: ~22:00 working on user form
+
+Place: finished
+
+But it's buggy, not showing the message. Go over the html again
